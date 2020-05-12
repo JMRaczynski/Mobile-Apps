@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MoonApp</string>
+    <string name="statusText">Dzisiaj: %1$d%%</string>
+    <string name="previousNewMoonText">Poprzedni nów: %1$d.%2$s.%3$d r.</string>
+    <string name="nextFullMoonText">Następna pełnia: %1$d.%2$s.%3$d r.</string>
+    <string name="listString">%1$d.%2$s.%3$d r.</string>
+</resources>
