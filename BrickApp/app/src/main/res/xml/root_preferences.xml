@@ -1,0 +1,12 @@
+<PreferenceScreen xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <EditTextPreference
+        app:key="urlPrefix"
+        app:title="Prefix of URL"
+        app:useSimpleSummaryProvider="true"/>
+    <SwitchPreferenceCompat
+        app:key="showArchived"
+        app:title="@string/sync_title"
+        app:summary="Show archived"/>
+
+</PreferenceScreen>
